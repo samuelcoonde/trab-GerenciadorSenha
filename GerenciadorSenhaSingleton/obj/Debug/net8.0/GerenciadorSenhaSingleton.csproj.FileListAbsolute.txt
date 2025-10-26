@@ -1,0 +1,14 @@
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\bin\Debug\net8.0\GerenciadorSenhaSingleton.exe
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\bin\Debug\net8.0\GerenciadorSenhaSingleton.deps.json
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\bin\Debug\net8.0\GerenciadorSenhaSingleton.runtimeconfig.json
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\bin\Debug\net8.0\GerenciadorSenhaSingleton.dll
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\bin\Debug\net8.0\GerenciadorSenhaSingleton.pdb
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.AssemblyInfoInputs.cache
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.AssemblyInfo.cs
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.csproj.CoreCompileInputs.cache
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.dll
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\refint\GerenciadorSenhaSingleton.dll
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.pdb
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\GerenciadorSenhaSingleton.genruntimeconfig.cache
+C:\Users\samuel\OneDrive\Documentos\Faculdade\4Semestre\POOCSHARP\GerenciadorSenhaSingleton\GerenciadorSenhaSingleton\obj\Debug\net8.0\ref\GerenciadorSenhaSingleton.dll
